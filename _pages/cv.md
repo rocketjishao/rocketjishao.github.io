@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景：Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2009-2013年，本科毕业于南开大学化学学院分子科学与工程专业；  
+* B.S. in Chemistry, Nankai University, 2009-2013
+* 2013-2016年，硕士毕业于清华大学化学系；  
+* M.S. in Chemical Biology, Tsinghua University, 2013-2016
+* 2017-2021年，博士毕业于香港浸会大学化学系，师从蔡宗苇教授。   
+* Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021
   
-Skills
+  
+工作经历：Work experience 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* 2016-2017年: 研究助理 Research Assistant
+  * 香港浸会大学
+  * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: Metabolomics and chemoproteomics
+  * 师从蔡宗苇教授 Supervisor: Professor Zongwei Cai
+   
+* 2021-2024年:博后 Postdoctoral Fellow  
+  * 香港大学化学系 The University of Hong Kong
+  * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: chemoproteomics
+  * 师从支志明院士 Supervisor: Professor Chi-Ming Che
+  
+  
+发表文章 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+<ul>{% for post in site.publications %} 
+  {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+   
+1.	Shao, X., et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex, 2023, Chemical Science, major revision (Q1, IF=8.4).  
+2.	Shao, X., et al. DpCoA tagSeq: barcoding dpCoA-capped RNA for direct nanopore sequencing via maleimide-thiol reaction, Analytical Chemistry 2023, 95, 11124–11131. (Q1, IF=7.4)  
+3.	Shao, X., Zhang, H., Yang, Z., Zhong, H., Xia, Y., and Cai, Z. NAD tagSeq for transcriptome-wide identification and characterization of NAD+-capped RNAs, Nature Protocols 2020, 15, 2813-2836. (Q1, IF=14.8, cited by 11)  
+4.	Shao, X., Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
+5.	Shao, X., Ji, F., Wang, Y., Zhu, L., Zhang, Z., Du, X., Chung, A. C. K., Hong, Y., Zhao, Q., and Cai, Z. Integrative chemical proteomics-metabolomics approach reveals Acaca/Acacb as direct molecular targets of PFOA, Analytical Chemistry 2018, 90, 11092-11098. (Q1, IF=7.4, cited by 25)  
+6.	Shao, X., Gao, D., Chen, Y., Jin, F., Hu, G., Jiang, Y., and Liu, H. Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening, Analytica Chimica Acta 2016, 934, 186-193. (Q1, IF=6.2, cited by 57)  
+7.	Shao, X., Gao, D., Wang, Y., Jin, F., Wu Q., and Liu, H. Application of metabolomics to investigate the antitumor mechanism of flavopiridol in MCF-7 breast cancer cells. Journal of Chromatography B 2016, 1025 40–47. (Q1, IF=3, cited by 28)  
+
+
+教授课程 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
