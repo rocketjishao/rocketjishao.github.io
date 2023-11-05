@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[chemist](/images/chemist.png){: .align-right width="100px"}  
 
 {% include base_path %}
-[chemist](/images/chemist.png){: .align-right width="100px"}  
 教育背景：Education
 ======
 * 2009-2013年，本科毕业于南开大学化学学院分子科学与工程专业；  
