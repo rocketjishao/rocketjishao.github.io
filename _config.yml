@@ -8,7 +8,6 @@
 # Site Settings  
 
 remote_theme           : "Minimal"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
 title                    : "Shao's Homepage"
