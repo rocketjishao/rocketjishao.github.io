@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![chemist](/images/chemist.png){: .align-right width="250px"}  
 
-{% include base_path %}
+{% include base_path %}  
 教育背景：Education
 ======
 
