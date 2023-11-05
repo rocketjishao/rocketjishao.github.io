@@ -17,4 +17,4 @@ redirect_from:
 * SHAO group mainly focuses on developing chemical biology methods in combination with omics techniques for toxicology researches.  
 
 #__Research:__
-![chemical biology]{/images/ChemBio.png}{: width="300px"}
+![chemical biology](/images/ChemBio.png)
