@@ -8,7 +8,7 @@
 # Site Settings  
 
 locale                   : "en-US"
-title                    : "邵组"
+title                    : "Shao's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaojian Shao (邵晓剑)"
 description              : &description "Research Group (课题组介绍)"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaojian Shao (邵晓剑)"
-  avatar           : "shao.png"
+  avatar           : "shao2.png"
   bio              : "莫为浮云遮望眼。  
   Dust Will Settle as We Go Along"
   location         : "Guangzhou, China"
