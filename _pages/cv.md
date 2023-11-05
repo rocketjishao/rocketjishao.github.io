@@ -12,16 +12,16 @@ redirect_from:
 教育背景：Education
 ======
 
-![NKU](/images/NKU.png){. align-right width="200px"}  
+![NKU](/images/NKU.png){:. align-right width="200px"}  
 * 2009-2013年，本科毕业于南开大学化学学院分子科学与工程专业；  
 *   B.S. in Chemistry, Nankai University, 2009-2013
-![THU](/images/THU.png){. align-right width="200px"}  
+![THU](/images/THU.png){:. align-right width="200px"}  
 * 2013-2016年，硕士毕业于清华大学化学系，师从刘红霞老师（蒋宇扬课题组）；  
 *   M.S. in Chemical Biology, Tsinghua University, 2013-2016
 * 2017-2021年，博士毕业于香港浸会大学化学系，师从蔡宗苇教授。   
 *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021
     [蔡课题组](http://skleba.hkbu.edu.hk/en/home/)  
-    ![SKLEBA](/images/skleba.png){. align-right width="200px"}    
+    ![SKLEBA](/images/skleba.png){:. align-right width="200px"}    
 
 工作经历：Work experience 
 ======
@@ -35,7 +35,7 @@ redirect_from:
   * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: chemoproteomics
   * 师从支志明院士 Supervisor: Professor Chi-Ming Che  
     [支院士课题组](https://cmche-hku.weebly.com/)  
-    ![HKU](/images/HKU.png){. align-right width="260px"}
+    ![HKU](/images/HKU.png){:. align-right width="260px"}
   
 发表文章 Publications
 ======
