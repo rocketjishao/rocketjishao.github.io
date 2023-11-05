@@ -16,4 +16,4 @@ redirect_from:
 * 邵组主要关注于开发化学生物学方法并与多组学技术相结合，创立化学蛋白组学、表观转录组学新的平台方法，应用于毒理学的机制研究。      
 * SHAO group mainly focuses on developing chemical biology methods in combination with omics techniques for toxicology researches.  
 
-![image](https://github.com/rocketjishao/rocketjishao.github.io/blob/master/images/chemicalbiology.png)
+![image](https://github.com/rocketjishao/rocketjishao.github.io/blob/master/images/ChemBio.png)
