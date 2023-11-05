@@ -18,7 +18,7 @@ redirect_from:
 * 2017-2021年，博士毕业于香港浸会大学化学系，师从蔡宗苇教授。   
 *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021
     [蔡课题组](http://skleba.hkbu.edu.hk/en/home/)
-  
+    ![SKLEBA](/images/SKLEBA.png){. align-right width="260px"}
 工作经历：Work experience 
 ======
 * 2016-2017年: 研究助理 Research Assistant
@@ -31,7 +31,7 @@ redirect_from:
   * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: chemoproteomics
   * 师从支志明院士 Supervisor: Professor Chi-Ming Che  
     [支院士课题组](https://cmche-hku.weebly.com/)
-    ![HKU](/images/hku.png)
+    ![HKU](/images/hku.png){. align-right width="260px"}
   
 发表文章 Publications
 ======
