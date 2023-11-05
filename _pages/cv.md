@@ -33,11 +33,12 @@ redirect_from:
   * 师从蔡宗苇教授 Supervisor: Professor Zongwei Cai  
    
 * 2021-2024年:博后 Postdoctoral Fellow  
+    ![HKU](/images/HKU.png){: .align-right width="260px"}
   * 香港大学化学系 The University of Hong Kong
   * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: chemoproteomics
   * 师从支志明院士 Supervisor: Professor Chi-Ming Che  
     [支院士课题组](https://cmche-hku.weebly.com/)  
-    ![HKU](/images/HKU.png){: .align-right width="260px"}
+
   
 发表文章 Publications
 ======
