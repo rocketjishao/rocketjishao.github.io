@@ -1,10 +1,10 @@
 # main links links
 main:
-- title: "CV"
+  - title: "CV"
     url: /cv/
 #       url: /files/CV.pdf 
   
-- title: "Publications"
+  - title: "Publications"
     url: /publications/
 
 # - title: "Talks"
