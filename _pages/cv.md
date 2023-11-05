@@ -34,6 +34,7 @@ redirect_from:
   
 发表文章 Publications
 ======
+## 代表文章: ##
 <ul>{% for post in site.publications %} 
   {% include archive-single-cv.html %}
   {% endfor %}</ul>
