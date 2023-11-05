@@ -1,6 +1,6 @@
 ---
-title: "epitranscriptomics"
-excerpt: "Epitranscriptomics <br/><img src='/images/epitranscriptomics.png'>"
+title: "Epitranscriptomics"
+excerpt: "<br/><img src='/images/epitranscriptomics.png'>"
 collection: portfolio
 ---
 
