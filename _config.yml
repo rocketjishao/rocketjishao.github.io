@@ -7,7 +7,7 @@
 
 # Site Settings  
 
-theme: minimal
+theme: minima
 locale                   : "en-US"
 title                    : "Shao's Homepage"
 title_separator          : "-"
