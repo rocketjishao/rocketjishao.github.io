@@ -1,6 +1,6 @@
 ---
 title: "Chemproteomics"
-excerpt: "Chemproteomics<br/><img src='/images/chemoproteomics.png'>"
+excerpt: "<img src='/images/chemoproteomics.png'>"
 collection: portfolio
 ---
 
