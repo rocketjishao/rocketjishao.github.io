@@ -21,7 +21,7 @@ redirect_from:
 * 2017-2021年，博士毕业于香港浸会大学化学系，师从蔡宗苇教授。   
 *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021
     [蔡课题组](http://skleba.hkbu.edu.hk/en/home/)  
-    ![SKLEBA](/images/SKLEBA.png){. align-right width="260px"}    
+    ![SKLEBA](/images/skleba.png){. align-right width="200px"}    
 
 工作经历：Work experience 
 ======
