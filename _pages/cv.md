@@ -34,8 +34,8 @@ redirect_from:
   * 香港大学化学系 The University of Hong Kong
   * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: chemoproteomics
   * 师从支志明院士 Supervisor: Professor Chi-Ming Che  
-    [支院士课题组](https://cmche-hku.weebly.com/)
-    ![HKU](/images/hku.png){. align-right width="260px"}
+    [支院士课题组](https://cmche-hku.weebly.com/)  
+    ![HKU](/images/HKU.png){. align-right width="260px"}
   
 发表文章 Publications
 ======
