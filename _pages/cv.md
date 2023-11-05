@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![chemist](/images/chemist.png){: .align-right width="100px"}  
+![chemist](/images/chemist.png){: .align-right width="300px"}  
 
 {% include base_path %}
 教育背景：Education
