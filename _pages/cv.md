@@ -25,6 +25,7 @@ redirect_from:
 *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021
     [蔡课题组](http://skleba.hkbu.edu.hk/en/home/)  
 
+  
 工作经历：Work experience 
 ======
 * 2016-2017年: 研究助理 Research Assistant
@@ -52,7 +53,7 @@ redirect_from:
 2.	Shao, X., Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
 3.	Shao, X., Gao, D., Chen, Y., Jin, F., Hu, G., Jiang, Y., and Liu, H. Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening, Analytica Chimica Acta 2016, 934, 186-193. (Q1, IF=6.2, cited by 57)  
 4.	Shao, X., Gao, D., Wang, Y., Jin, F., Wu Q., and Liu, H. Application of metabolomics to investigate the antitumor mechanism of flavopiridol in MCF-7 breast cancer cells. Journal of Chromatography B 2016, 1025 40–47. (Q1, IF=3, cited by 28)  
-
+  
 参与项目：Fundings
 ======
 * 国家自然科学基金委员会，青年科学基金项目，21705136，发展化学蛋白质组学平台用于筛选天然产物的靶蛋白，  
