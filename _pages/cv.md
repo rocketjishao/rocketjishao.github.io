@@ -37,14 +37,12 @@ redirect_from:
 <ul>{% for post in site.publications %} 
   {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   
+
+## 其他文章: ##
 1.	Shao, X., et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex, 2023, Chemical Science, major revision (Q1, IF=8.4).  
-2.	Shao, X., et al. DpCoA tagSeq: barcoding dpCoA-capped RNA for direct nanopore sequencing via maleimide-thiol reaction, Analytical Chemistry 2023, 95, 11124–11131. (Q1, IF=7.4)  
-3.	Shao, X., Zhang, H., Yang, Z., Zhong, H., Xia, Y., and Cai, Z. NAD tagSeq for transcriptome-wide identification and characterization of NAD+-capped RNAs, Nature Protocols 2020, 15, 2813-2836. (Q1, IF=14.8, cited by 11)  
-4.	Shao, X., Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
-5.	Shao, X., Ji, F., Wang, Y., Zhu, L., Zhang, Z., Du, X., Chung, A. C. K., Hong, Y., Zhao, Q., and Cai, Z. Integrative chemical proteomics-metabolomics approach reveals Acaca/Acacb as direct molecular targets of PFOA, Analytical Chemistry 2018, 90, 11092-11098. (Q1, IF=7.4, cited by 25)  
-6.	Shao, X., Gao, D., Chen, Y., Jin, F., Hu, G., Jiang, Y., and Liu, H. Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening, Analytica Chimica Acta 2016, 934, 186-193. (Q1, IF=6.2, cited by 57)  
-7.	Shao, X., Gao, D., Wang, Y., Jin, F., Wu Q., and Liu, H. Application of metabolomics to investigate the antitumor mechanism of flavopiridol in MCF-7 breast cancer cells. Journal of Chromatography B 2016, 1025 40–47. (Q1, IF=3, cited by 28)  
+2.	Shao, X., Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
+3.	Shao, X., Gao, D., Chen, Y., Jin, F., Hu, G., Jiang, Y., and Liu, H. Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening, Analytica Chimica Acta 2016, 934, 186-193. (Q1, IF=6.2, cited by 57)  
+4.	Shao, X., Gao, D., Wang, Y., Jin, F., Wu Q., and Liu, H. Application of metabolomics to investigate the antitumor mechanism of flavopiridol in MCF-7 breast cancer cells. Journal of Chromatography B 2016, 1025 40–47. (Q1, IF=3, cited by 28)  
 
 
 教授课程 Teaching
