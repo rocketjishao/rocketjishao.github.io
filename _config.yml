@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : rocketjishao
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en"
-  email            :
+  email            : "rocketjishao@163.com"
   researchgate     : "https://www.researchgate.net/profile/Xiaojian-Shao-2"
   uri              :
   bitbucket        :
