@@ -12,7 +12,7 @@ redirect_from:
 教育背景：Education
 ======
 
-* 2009-2013年，本科毕业于南开大学化学学院分子科学与工程专业；  
+* 2009-2013年，本科毕业于南开大学与天津大学合办的分子科学与工程专业；  
 *   B.S. in Chemistry, Nankai University, 2009-2013
 *   B.E. in Chemical engineering, Tianjin University, 2009-2013
 ![NKU](/images/NKU.png){: .align-right width="200px"}   
