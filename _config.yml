@@ -7,7 +7,6 @@
 
 # Site Settings  
 
-remote_theme           : "Minimal"
 
 locale                   : "en-US"
 title                    : "Shao's Homepage"
