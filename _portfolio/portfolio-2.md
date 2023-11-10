@@ -4,4 +4,8 @@ excerpt: "<img src='/images/epitranscriptomics.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## 关注公众号/课题组Epitranscriptomics:    
+环境表观遗传学与暴露组学  
+Andres Jaschke  
+Jeppe Vinther  
+Carolyn Bertozzi  
