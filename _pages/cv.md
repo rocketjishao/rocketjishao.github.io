@@ -45,7 +45,6 @@ redirect_from:
   
 发表文章：Publications
 ======
-## 代表文章: ##
 详见 [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
 
 # chemoproteomics, 化学蛋白质组学 #
