@@ -47,20 +47,20 @@ redirect_from:
 ======
 详见 [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
 
-# chemoproteomics, 化学蛋白质组学 #
+# 1.chemoproteomics, 化学蛋白质组学 #
 1.	Shao, X., et al. Chemoproteomics for deconvolution of anticancer mechanism of gold complexes, 2023, in preparation.
 2.	Shao, X., et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex, 2023, Chemical Science, major revision (Q1, IF=8.4).
 3.	Shao, X., Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
 4.	Shao, X., Ji, F., Wang, Y., Zhu, L., Zhang, Z., Du, X., Chung, A. C. K., Hong, Y., Zhao, Q., and Cai, Z. Integrative chemical proteomics-metabolomics approach reveals Acaca/Acacb as direct molecular targets of PFOA, Analytical Chemistry 2018, 90, 11092-11098. (Q1, IF=7.4, cited by 25)
 
-# epitranscriptomics,表观转录组学，RNA的非典型帽子修饰 #
+# 2.epitranscriptomics,表观转录组学，RNA的非典型帽子修饰 #
 1.	Shao, X., et al. Response to the Comments on "Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex", 2023, Analytical Chemistry, accepted (Q1, IF=7.4).  
 2.	Shao, X., et al. DpCoA tagSeq: barcoding dpCoA-capped RNA for direct nanopore sequencing via maleimide-thiol reaction, Analytical Chemistry 2023, 95, 11124–11131. (Q1, IF=7.4) 
 3.  Shao, X., Zhang, H., Yang, Z., Zhong, H., Xia, Y., and Cai, Z. NAD tagSeq for transcriptome-wide identification and characterization of NAD+-capped RNAs, Nature Protocols 2020, 15, 2813-2836. (Q1, IF=14.8, cited by 11)
 4.  Hailei Zhang, Huan Zhong, Shoudong Zhang, Xiaojian Shao, Min Ni, Zongwei Cai, Xuemei Chen,and Yiji Xia. NAD tagSeq reveals that NAD+-capped RNAs are mostly produced from a large number of protein-coding genes in Arabidopsis. PNAS 2019.
 5.  Hailei Zhang, Huan Zhong, Xufeng Wang, Shoudong Zhang, Xiaojian Shao, Hao Hu, Zhiling Yu, Zongwei Cai, Xuemei Chen, and Yiji Xia. Use of NAD tagSeq II to identify growth phase-dependent alterations in E. coli RNA NAD+ capping, PNAS 2021.
 
-# 其他文章: #
+# 3.其他: #
 1.	Shao, X., Gao, D., Chen, Y., Jin, F., Hu, G., Jiang, Y., and Liu, H. Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening, Analytica Chimica Acta 2016, 934, 186-193. (Q1, IF=6.2, cited by 57)  
 2.	Shao, X., Gao, D., Wang, Y., Jin, F., Wu Q., and Liu, H. Application of metabolomics to investigate the antitumor mechanism of flavopiridol in MCF-7 breast cancer cells. Journal of Chromatography B 2016, 1025 40–47. (Q1, IF=3, cited by 28)  
   
