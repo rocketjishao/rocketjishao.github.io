@@ -52,13 +52,13 @@ redirect_from:
 ======
 详见 [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
 
-### 1.chemoproteomics, 化学蛋白质组学 ###
+### 1.chemoproteomics, 化学蛋白质组学，小分子靶蛋白鉴定 ###
 1.	__Shao, X.__, et al. Chemoproteomics for deconvolution of anticancer mechanism of gold complexes, 2023, in preparation.
 2.	__Shao, X.__, et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex, 2023, Chemical Science, major revision (Q1, IF=8.4).
 3.	__Shao, X.__, Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
 4.	__Shao, X.__, Ji, F., Wang, Y., Zhu, L., Zhang, Z., Du, X., Chung, A. C. K., Hong, Y., Zhao, Q., and Cai, Z. Integrative chemical proteomics-metabolomics approach reveals Acaca/Acacb as direct molecular targets of PFOA, Analytical Chemistry 2018, 90, 11092-11098. (Q1, IF=7.4, cited by 25)
 
-### 2.epitranscriptomics,表观转录组学，RNA的非典型帽子修饰 ###
+### 2.epitranscriptomics，表观转录组学，RNA的NAD、dpCoA非典型帽子修饰 ###
 1.	__Shao, X.__, et al. Response to the Comments on "Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex", 2023, Analytical Chemistry, accepted (Q1, IF=7.4).  
 2.	__Shao, X.__, et al. DpCoA tagSeq: barcoding dpCoA-capped RNA for direct nanopore sequencing via maleimide-thiol reaction, Analytical Chemistry 2023, 95, 11124–11131. (Q1, IF=7.4) 
 3.  __Shao, X.__, Zhang, H., Yang, Z., Zhong, H., Xia, Y., and Cai, Z. NAD tagSeq for transcriptome-wide identification and characterization of NAD+-capped RNAs, Nature Protocols 2020, 15, 2813-2836. (Q1, IF=14.8, cited by 11)
