@@ -3,21 +3,25 @@ main:
   - title: "CV"
     url: /cv/
 #       url: /files/CV.pdf 
-  
+
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
-
+ 
+  - title: "News"  
+    url: /year-archive/  
+    
 # - title: "Talks"
 #  url: /talks/     
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+
         
-  - title: "News"  
-    url: /year-archive/  
+
 
     
 #  - title: "Guide"
