@@ -8,5 +8,6 @@ tags:
   - 2024
 ---
 
-Dr. SHAO gave a talk in an RNA forum "RNA Biology and Health" hosted by School of Life Science, Peking University.
+Dr. SHAO gave a talk in an RNA forum "RNA Biology and Health" hosted by the School of Life Science, Peking University.
 The oral presentation is titled as :"TagSeq applies chemical biology methods to identify and characterize noncanonical RNA caps".
+His oral presentation mainly showed the development of dpCoA tagSeq and NAD tagSeq methods for identifying noncanonically capped RNAs.
