@@ -8,10 +8,10 @@
 # Site Settings  
 
 locale                   : "en-US"
-title                    : "Shao's Homepage"
+title                    : "SYSU-SPH-Dpt. Toxicology_Shao group"
 title_separator          : "-"
-name                     : &name "Shao (邵)"
-description              : &description "Research Group (课题组介绍)"
+name                     : name "Shao (邵)"
+description              : description "Shao's Research Group (邵组介绍)"
 url                      : https://rocketjishao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rocketjishao/rocketjishao.github.io"
