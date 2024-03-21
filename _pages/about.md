@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "__化学生物学+环境毒理学 (chemical biology + toxicology)__"
-excerpt: "SHAO"
 author_profile: true
 redirect_from: 
   - /about/
