@@ -58,8 +58,8 @@ redirect_from:
 详见 [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
 
 ### I.chemoproteomics, 化学蛋白质组学，小分子靶蛋白鉴定 ###
-1.	__Shao, X.__, et al. Chemoproteomics for deconvolution of anticancer mechanism of gold complexes, 2023, in preparation.
-2.	__Shao, X.__, et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex, 2023, Chemical Science, major revision (Q1, IF=8.4).
+1.	__Shao, X.__, et al. Chemoproteomics for deconvolution of anticancer mechanism of gold complexes, 2024, in preparation.
+2.	__Shao, X.__, et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting the proteasome regulatory complex, 2024, Chemical Science, online (Q1, IF=8.4).
 3.	__Shao, X.__, Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
 4.	__Shao, X.__, Ji, F., Wang, Y., Zhu, L., Zhang, Z., Du, X., Chung, A. C. K., Hong, Y., Zhao, Q., and Cai, Z. Integrative chemical proteomics-metabolomics approach reveals Acaca/Acacb as direct molecular targets of PFOA, Analytical Chemistry 2018, 90, 11092-11098. (Q1, IF=7.4, cited by 25)
 
