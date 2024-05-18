@@ -16,7 +16,7 @@ PhD student(s)
 
 <table>
     <tr>
-        <td>这是name<img width=200/></td>
+        <td>这是<img width=200/></td>
         <td><div style="width:100px;color:#f00;font-weight:normal;font-style:italic;">字段1</div></td>
     </tr>
 </table>
