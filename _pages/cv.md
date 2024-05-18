@@ -29,7 +29,7 @@ redirect_from:
 
 ---
 
-工作经历：Work experience 
+工作经历：Occupational experience 
 ======
 * 2016-2017年: 研究助理 Research Assistant
   * 香港浸会大学 Hong Kong Baptist University
