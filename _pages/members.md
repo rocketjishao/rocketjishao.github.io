@@ -13,10 +13,7 @@ PhD student(s)
 <!-- # ![NKU](/images/NKU.png){: .align-right width="200px"}    你看不到我看不到我 -->
 
 <table>
-table th:first-of-type {
-    width: 200px;
-Student A <br> ![A](/images/A.png){:width="100px"} <br> M.Sc. candidate. <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E.,  University<br> <b>Email</b>:  at mail2.sysu.edu.cn</p>|
-}
+    Student A <br> ![A](/images/A.png){:width="100px"} <br> M.Sc. candidate. <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E.,  University<br> <b>Email</b>:  at mail2.sysu.edu.cn</p>
 </table>
 
 ---
