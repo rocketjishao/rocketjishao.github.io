@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: ""
 permalink: /members/
 author_profile: true
@@ -13,7 +13,6 @@ PhD student(s)
 ======
     
 |Student A <br> ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
-
 
 
 | a | b | d |
