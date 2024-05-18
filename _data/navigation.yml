@@ -13,7 +13,7 @@ main:
     url: /publications/
      
   - title: "Members"
-   url: /members/     
+    url: /members/     
 
 #  - title: "Teaching"
 #    url: /teaching/    
