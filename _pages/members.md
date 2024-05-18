@@ -19,7 +19,7 @@ table th:first-of-type {
     width: 2cm;
 }
 table th:nth-of-type(2) {
-    width: 150pt;
+    width: 2cm;
 }
 table th:nth-of-type(3) {
     width: 2cm;
