@@ -14,6 +14,12 @@ PhD student(s)
     
 |Student A <br> ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
 
+<table>
+    <tr>
+        <td>这是</td>
+        <td>一个HTML表格。</td>
+    </tr>
+</table>
 
 | a | b | d |
 |---|---|---|
