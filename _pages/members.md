@@ -16,7 +16,7 @@ PhD student(s)
 
 | a | b | d |
 |---|---|---|
-| 1 | <img width=200/>very very very very very lonng long long long long text| 3 |
+| 1 | <img width=100/>very very very very very lonng long long long long text| 3 |
 
 <!-- ![THU](/images/THU.png){: .align-left width="200px"}   你看不到我看不到我 -->
 <!-- * 2009-2013年，B.S. in Chemistry, Nankai University, 2009-2013 你看不到我看不到我 -->
