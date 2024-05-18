@@ -12,10 +12,9 @@ PhD student(s)
 <!-- * 2009-2013年，B.S. in Chemistry, Nankai University, 2009-2013 你看不到我看不到我 -->
 <!-- # ![NKU](/images/NKU.png){: .align-right width="200px"}    你看不到我看不到我 -->
 
-| Header1 | Header2 | Header2 | 
+| Student A </br> ![A](/images/A.png){:width="50px"} | B | C | 
 |:--------|:-------:|:-------:|
 | cell1   | cell2   | cell2   | 
-| cell4   | cell5   | cell5   |
 
 ---
 
