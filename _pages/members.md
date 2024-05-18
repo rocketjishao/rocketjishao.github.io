@@ -11,16 +11,10 @@ author_profile: true
 
 PhD student(s)
 ======
+|<div style="width:100px"> Student A </div> <br> ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E.,  University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
 <!-- ![THU](/images/THU.png){: .align-left width="200px"}   你看不到我看不到我 -->
 <!-- * 2009-2013年，B.S. in Chemistry, Nankai University, 2009-2013 你看不到我看不到我 -->
 <!-- # ![NKU](/images/NKU.png){: .align-right width="200px"}    你看不到我看不到我 -->
-
-|<div style="width:100px;"> Student A </div> <br> 
-![A](/images/A.png){:width="100px"} <br> 
-Ph.D. candidate.  <br> 
-<b>Research direction</b>: Chemical biology. <br>
-<b>Education</b>: B.E.,  University<br> 
-<b>Email</b>: A at mail2.sysu.edu.cn |
 
 ---
 
