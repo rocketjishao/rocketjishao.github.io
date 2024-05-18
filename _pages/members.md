@@ -5,6 +5,7 @@ permalink: /members/
 author_profile: true
 
 ---
+<center>I'm fortunate to work with a group of exceptional students.<center/>
 
 PhD student(s)
 ======
