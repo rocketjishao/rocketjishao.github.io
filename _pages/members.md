@@ -24,7 +24,4 @@ PhD student(s)
 
 Master student(s)
 ======
-| Header1 | Header2 | 
-|:--------|:-------:|
-| cell1   | cell2   | 
-| cell4   | cell5   | 
+  
