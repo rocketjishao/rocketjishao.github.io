@@ -5,7 +5,9 @@ permalink: /members/
 author_profile: true
 
 ---
-<p class="text-center">I'm fortunate to work with a group of exceptional students.</p>
+<p class="text-center">
+  I'm fortunate to work with a group of exceptional students.
+</p>
 
 PhD student(s)
 ======
@@ -13,7 +15,7 @@ PhD student(s)
 <!-- * 2009-2013年，B.S. in Chemistry, Nankai University, 2009-2013 你看不到我看不到我 -->
 <!-- # ![NKU](/images/NKU.png){: .align-right width="200px"}    你看不到我看不到我 -->
 
-|<div style="width: 150pt">Student A <br> ![A](/images/A.png){:width="100px"} <br> M.Sc. candidate. <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E.,  University<br> <b>Email</b>:  at mail2.sysu.edu.cn</p> <div/>|
+|<div style="width: 150pt">Student A <br> ![A](/images/A.png){:width="100px"} <br> M.Sc. candidate. <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E.,  University<br> <b>Email</b>:  at mail2.sysu.edu.cn</p> </div>|
 
 ---
 
