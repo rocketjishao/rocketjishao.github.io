@@ -15,7 +15,8 @@ PhD student(s)
 ```
 Entry  <br />  ad        | 
 ```
-
+</div></div></a></div><div class="col-12 mb-4"> <a class="text-decoration-none text-dark"><div class="card"> <img src="../images/wangxinyue.jpg" alt="xinyue" class="card-img-top"><div class="card-body"><h5 class="card-title">Xinyue Wang</h5><p class="card-text">M.Sc. candidate. <br> <b>Research direction</b>: Computational imaging. <br> <b>Education</b>: B.E., Shanghai Jiaotong University<br> <b>Email</b>: xinyue-w22 at mails.tsinghua.edu.cn</p></div></div></a></div><div class="col-12 mb-4">
+  
 | Entry  <br />  ad        | Item   |  
 | --------         | ------ | 
 | [John Doe](#)    | 2016   | 
