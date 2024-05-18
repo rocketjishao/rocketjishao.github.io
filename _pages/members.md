@@ -16,8 +16,8 @@ PhD student(s)
 
 <table>
     <tr>
-        <td>这是</td>
-        <td>一个HTML表格。</td>
+        <td>这是name<img width=200/></td>
+        <td>一个HTML表格。name<img width=200/></td>
     </tr>
 </table>
 
