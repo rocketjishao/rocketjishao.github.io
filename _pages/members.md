@@ -11,10 +11,10 @@ PhD student(s)
 ======
 <style>
 table th:first-of-type {
-    width: 4cm;
+    width: 8cm;
 }
 table th:first-of-type(2) {
-    width: 150pt;
+    width: 8cm;
 }
 </style>
 
