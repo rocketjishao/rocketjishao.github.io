@@ -9,75 +9,73 @@ redirect_from:
 ![chemist](/images/chemist.png){: .align-right width="250px"}  
 
 {% include base_path %}  
-教育背景：Education
+Education
 ======
 
-* 2009-2013年，本科毕业于南开大学与天津大学合办的分子科学与工程专业；  
+* 2009-2013, Bachelor's degree in Molecular Science and Technology；  
   *   B.S. in Chemistry, Nankai University, 2009-2013
   *   B.E. in Chemical engineering, Tianjin University, 2009-2013
 ![NKU](/images/NKU.png){: .align-right width="200px"}   
  
-* 2013-2016年，硕士毕业于清华大学化学系，师从刘红霞老师（蒋宇扬课题组）；  
+* 2013-2016, Master's degree in Chemical biology, supervised by Dr. Liu Hongxia in Prof. Jiang Yuyang's group；  
   *   M.S. in Chemical Biology, Tsinghua University, 2013-2016
 ![THU](/images/THU.png){: .align-right width="200px"}   
-[蒋组](https://sklco.pkusz.edu.cn/info/1030/1048.htm)
+[Jiang's group](https://sklco.pkusz.edu.cn/info/1030/1048.htm)
    
-* 2017-2021年，博士毕业于香港浸会大学化学系，师从蔡宗苇教授。   
+* 2017-2021, Doctor of philosophy in Chemistry.    
   *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021  
-    [蔡课题组](http://skleba.hkbu.edu.hk/en/home/)  
+    [Cai Gropu](http://skleba.hkbu.edu.hk/en/home/)  
     ![SKLEBA](/images/skleba.png){: .align-right width="200px"}    
 
 ---
 
-工作经历：Occupational experience 
+Occupational experience 
 ======
-* 2016-2017年: 研究助理 Research Assistant
-  * 香港浸会大学 Hong Kong Baptist University
-  * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: Metabolomics and chemoproteomics
-  * 师从蔡宗苇教授 Supervisor: Professor Zongwei Cai  
+* 2016-2017: Research Assistant
+  * Hong Kong Baptist University
+  * Duties included: Metabolomics and chemoproteomics
+  * Supervisor: Professor Zongwei Cai  
 
-* 2021-2024年:博后 Postdoctoral Fellow  
+* 2021-2024: Postdoctoral Fellow  
     ![HKU](/images/HKU.png){: .align-right width="260px"}
-  * 香港大学化学系 The University of Hong Kong
-  * 工作职责：代谢组学与化学蛋白质组学研究 Duties included: chemoproteomics
-  * 师从支志明院士 Supervisor: Professor Chi-Ming Che  
-    [支院士课题组](https://cmche-hku.weebly.com/)  
+  * Department of Chemistry, The University of Hong Kong
+  * Duties included: chemoproteomics
+  * Supervisor: Professor Chi-Ming Che  
+    [Che's group](https://cmche-hku.weebly.com/)  
 
 ---
 
-主持/参与项目：Fundings
+Fundings
 ======
-* 中山大学“逸仙学者计划”之“新锐学者”，2024年1月-至今，主持  
-* 国家自然科学基金委员会，青年科学基金项目，21705136，发展化学蛋白质组学平台用于筛选天然产物的靶蛋白，  
-  2018-01-01 至 2020-12-31，25 万元，结题，参与
+* NSFC Young Scientist Fund，22406209, Chemical proteomics for studying the liver toxicity mechanisms of PPD-derived quinones, 2025-2027
 
 ---
 
-发表文章：Publications
+Publications
 ======
 详见 [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
 
-### I.chemoproteomics, 化学蛋白质组学，小分子靶蛋白鉴定 ###
+### I.chemoproteomics for protein target identification ###
 1.	__Shao, X.__, et al. Chemoproteomics for deconvolution of anticancer mechanism of gold complexes, 2024, in preparation.
 2.	__Shao, X.__, et al. Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting the proteasome regulatory complex, 2024, Chemical Science, online (Q1, IF=8.4).
 3.	__Shao, X.__, Zhang, H., Yang, Z., Zhu, L., and Cai, Z. Quantitative profiling of protein-derived electrophilic cofactors in bacterial cells with a hydrazine-derived probe, Analytical Chemistry 2020, 92, 4484-4490. (Q1, IF=7.4, cited by 3)  
 4.	__Shao, X.__, Ji, F., Wang, Y., Zhu, L., Zhang, Z., Du, X., Chung, A. C. K., Hong, Y., Zhao, Q., and Cai, Z. Integrative chemical proteomics-metabolomics approach reveals Acaca/Acacb as direct molecular targets of PFOA, Analytical Chemistry 2018, 90, 11092-11098. (Q1, IF=7.4, cited by 25)
 
-### II.epitranscriptomics，表观转录组学，RNA的NAD、dpCoA非典型帽子修饰 ###
+### II.epitranscriptomics for investigating RNAs with noncanonical caps ###
 1.	__Shao, X.__, et al. Response to the Comments on "Integrative chemoproteomics reveals anticancer mechanisms of silver(I) targeting proteasome regulatory complex", 2023, Analytical Chemistry, accepted (Q1, IF=7.4).  
 2.	__Shao, X.__, et al. DpCoA tagSeq: barcoding dpCoA-capped RNA for direct nanopore sequencing via maleimide-thiol reaction, Analytical Chemistry 2023, 95, 11124–11131. (Q1, IF=7.4) 
 3.  __Shao, X.__, Zhang, H., Yang, Z., Zhong, H., Xia, Y., and Cai, Z. NAD tagSeq for transcriptome-wide identification and characterization of NAD+-capped RNAs, Nature Protocols 2020, 15, 2813-2836. (Q1, IF=14.8, cited by 11)
 4.  Hailei Zhang, Huan Zhong, Shoudong Zhang, __Shao, X.__, Min Ni, Zongwei Cai, Xuemei Chen,and Yiji Xia. NAD tagSeq reveals that NAD+-capped RNAs are mostly produced from a large number of protein-coding genes in Arabidopsis. PNAS 2019.
 5.  Hailei Zhang, Huan Zhong, Xufeng Wang, Shoudong Zhang, __Shao, X.__, Hao Hu, Zhiling Yu, Zongwei Cai, Xuemei Chen, and Yiji Xia. Use of NAD tagSeq II to identify growth phase-dependent alterations in E. coli RNA NAD+ capping, PNAS 2021.
 
-### III.其他: ###
+### III. others: ###
 1.	__Shao, X.__, Gao, D., Chen, Y., Jin, F., Hu, G., Jiang, Y., and Liu, H. Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening, Analytica Chimica Acta 2016, 934, 186-193. (Q1, IF=6.2, cited by 57)  
 2.	__Shao, X.__, Gao, D., Wang, Y., Jin, F., Wu Q., and Liu, H. Application of metabolomics to investigate the antitumor mechanism of flavopiridol in MCF-7 breast cancer cells. Journal of Chromatography B 2016, 1025 40–47. (Q1, IF=3, cited by 28)  
 
 ---
      
-研究背景：Research background
-======
+<p hiden> Research background 
+====== 
     
 ### 1.硕士阶段研究方向（2013 年-2016 年）  
 * 2013 年，我通过保研加入清华大学化学系蒋宇扬教授的课题组。蒋教授的团队致力于抗肿瘤药物的研究，并于 2018 年与北京大学共同建立了肿瘤化学基因组学国家重点实验室。我在研究生期间，主要学习了液相色谱与质谱联用技术，并利用代谢组学研究抗肿瘤药物的分子机理。其次，我也尝试通过微流控芯片与质谱联用技术来构建血脑屏障模型，从而实现脑部肿瘤药物的初筛，相关研究成果发表于 Analytica Chimica Acta 杂志。      
@@ -88,3 +86,5 @@ redirect_from:
     
 ### 3.博士后阶段研究方向（2021 年-2024 年）       
 * 2021 年 6 月，我加入香港大学支志明院士团队，进行博士后阶段的研究。主要利用化学蛋白质组学技术和细胞生物学技术来研究金属类药物的抗癌机理。相关成果在整理中，有一篇文章在修稿中，还有一篇在准备中。该工作得到团队的大力支持，并在 2023 年港大化学系与英国帝国理工学院化学系共同组织的会议中进行了口头报告。这部分研究展示了化学生物学方法结合多组学技术在药理学研究领域具有广泛的应用前景。  
+
+</p>
