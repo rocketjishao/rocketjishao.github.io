@@ -30,7 +30,7 @@ table th:first-of-type(3) {
 }
 </style>
     
-| ![A](/images/A.png){:width="100px"} |  | 
+| ![A](/images/A.png){:width="150px"} |  | 
 | <b>Cheng Ruiqin</b><br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Med. Peking Union Medical College; <br>$~~~~$B.Med., Sichuan University <br><b>Email</b>: A at mail2.sysu.edu.cn | |    
 
 ---
@@ -38,7 +38,7 @@ table th:first-of-type(3) {
 Master student(s)
 ======
 
-| ![A](/images/A.png){:width="100px"}  |  ![A](/images/A.png){:width="100px"}  | ![A](/images/A.png){:width="100px"} |
+|![A](/images/A.png){:width="150px"}|![A](/images/A.png){:width="150px"}|![A](/images/A.png){:width="150px"}|
 |<b>Zhang Xiqing</b><br> M.Med. candidate.  <br> <b>Research direction</b>: Chemical proteomics for target ID of new quinone-based pollutants. <br> <b>Education</b>: B.Med., Shandong University<br> <b>Email</b>: zhangxq88 at mail2.sysu.edu.cn |<b>Xiong Ning</b><br> M.Med. candidate.  <br> <b>Research direction</b>: Chemical proteomics for taget ID of metal pollutants. <br> <b>Education</b>: B.Med., Southern Medical University<br> <b>Email</b>: A at mail2.sysu.edu.cn |<b>Cai Siheng</b> <br> MPH candidate.  <br> <b>Research direction</b>: Epitranscriptomics method development. <br> <b>Education</b>: B.Med., University of South China<br> <b>Email</b>: A at mail2.sysu.edu.cn  |
 
 
@@ -46,7 +46,7 @@ Master student(s)
 Undergraduate student(s)
 ======
 
-| ![A](/images/A.png){:width="100px"} | ![A](/images/A.png){:width="100px"} |
+|![A](/images/A.png){:width="150px"}|![A](/images/A.png){:width="150px"}|
 |<b>Su Yalan</b><br> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn | TBD<br> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn|
 
    
