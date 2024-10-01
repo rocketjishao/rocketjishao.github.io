@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "Xiaojian Shao (邵晓剑)"
   avatar           : "pixel.png"
-  bio              : ""Dust Will Settle as We Go Along”"
+  bio              : "Dust Will Settle as We Go Along"
   location         : "Guangzhou, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en"
   email            : "shaoxj6@mail.sysu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Xiaojian-Shao-2"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"rocketjishao"
+  github           : # "rocketjishao"
   google_plus      :
   keybase          :
   instagram        :
