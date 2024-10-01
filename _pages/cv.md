@@ -22,7 +22,7 @@ Education
 ![THU](/images/THU.png){: .align-right width="200px"}   
 [Jiang's group](https://sklco.pkusz.edu.cn/info/1030/1048.htm)
    
-* 2017-2021, Doctor of philosophy in Chemistry.    
+* 2017-2021, Doctor of philosophy in Chemistry, supervisor: Prof. Cai Zongwei.    
   *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021  
     [Cai Group](http://skleba.hkbu.edu.hk/en/home/)  
     ![SKLEBA](/images/skleba.png){: .align-right width="200px"}    
