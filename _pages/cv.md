@@ -29,7 +29,7 @@ Education
 
 ---
 
-Occupational experience 
+Occupation 
 ======
 * 2016-2017: Research Assistant
   * Hong Kong Baptist University
