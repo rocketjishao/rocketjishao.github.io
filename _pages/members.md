@@ -46,8 +46,8 @@ Master student(s)
 Undergraduate student(s)
 ======
 
-| ![A](/images/A.png){:width="100px"} | 2 |
-|Su Yalan<br> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn |![A](/images/A.png){:width="100px"} <br> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn|
+| ![A](/images/A.png){:width="100px"} | ![A](/images/A.png){:width="100px"} |
+|Su Yalan<br> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn | TBD<br> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn|
 
    
 
