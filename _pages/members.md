@@ -23,7 +23,7 @@ table th:first-of-type(3) {
 }
 </style>
 
-| 1 | <img width=8cm/> | |
+| 1 | 2 | 3 |
 |---|---|---|
 |![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | g|     
 
