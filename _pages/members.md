@@ -5,12 +5,12 @@ permalink: /members/
 author_profile: true
 
 ---
-<p class="text-left">
-  I'm fortunate to work with a group of exceptional students.
+<p class="text-insent:2em">
+I'm fortunate to work with a group of exceptional students.
 </p>
 
 PhD student(s)
-======     
+======
 |Student A <br> ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
 
 ---
