@@ -16,13 +16,13 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 10cm;
+    width: 8cm;
 }
 table th:first-of-type(2) {
-    width: 10cm;
+    width: 8cm;
 }
 table th:first-of-type(3) {
-    width: 10cm;
+    width: 8cm;
 }
 </style>
     
