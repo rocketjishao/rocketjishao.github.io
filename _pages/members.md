@@ -13,19 +13,19 @@ PhD student(s)
 ======
 <style>
 table th:first-of-type {
-    width: 20%;
+    width: 8cm;
 }
 table th:first-of-type(2) {
-    width: 30%;
+    width: 8cm;
 }
 table th:first-of-type(3) {
-    width: 50%;
+    width: 8cm;
 }
 </style>
 
-| 1 | <img width=8cm/> |
-|---|---|
-|![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
+| 1 | <img width=8cm/> | |
+|---|---|---|
+|![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | g|     
 
 ---
 
