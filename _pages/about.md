@@ -15,5 +15,5 @@ redirect_from:
         
 
 # __🥈Research Interest__   
-* Our group mainly focuses on developing chemical biology methods in combination with omics techniques for toxicology research.        
+* Our group mainly focuses on combining chemical biology methods with omics techniques for toxicology research.        
 ![chemical biology](/images/ChemBio.png){: .align-left width="600px"}  
