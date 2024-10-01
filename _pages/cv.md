@@ -53,7 +53,7 @@ Fundings
 
 Publications
 ======
-详见 [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
+Please check [google scholar](https://scholar.google.com/citations?user=TyNXq_sAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Xiaojian-Shao-2/research)
 
 ### I.chemoproteomics for protein target identification ###
 1.	__Shao, X.__, et al. Chemoproteomics for deconvolution of anticancer mechanism of gold complexes, 2024, in preparation.
