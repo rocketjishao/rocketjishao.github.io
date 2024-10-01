@@ -42,6 +42,8 @@ Occupational experience
   * Duties included: chemoproteomics
   * Supervisor: Professor Chi-Ming Che  
     [Che's group](https://cmche-hku.weebly.com/)  
+* 2024-present: Assistant Professor   
+  * Department of Toxicology, School of Public Health, The Sun Yat-Sen University   
 
 ---
 
