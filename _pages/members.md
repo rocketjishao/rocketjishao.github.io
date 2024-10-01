@@ -10,7 +10,7 @@ author_profile: true
 PhD student(s)
 ======
     
-| <div style="width: 150pt">Student A | <div style="width: 150pt">Student B  |
+| <div style="width: 150pt">Student A</div> | <div style="width: 150pt">Student B</div> |
 |---|---|
 | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
 
