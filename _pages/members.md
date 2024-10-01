@@ -16,7 +16,7 @@ PhD student(s)
 
 <table>
     <tr>
-        <td>这是<img width=200/></td>
+        <td>This is <img width=200/></td>
         <td><div style="width:100px;color:#f00;font-weight:normal;font-style:italic;">字段1</div></td>
     </tr>
 </table>
@@ -34,3 +34,11 @@ PhD student(s)
 Master student(s)
 ======
   
+|Student A <br> ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
+
+<table>
+    <tr>
+        <td>This is <img width=200/></td>
+        <td><div style="width:100px;color:#f00;font-weight:normal;font-style:italic;">字段1</div></td>
+    </tr>
+</table>
