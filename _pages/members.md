@@ -18,6 +18,9 @@ table th:first-of-type {
 table th:first-of-type(2) {
     width: 8cm;
 }
+table th:first-of-type(3) {
+    width: 8cm;
+}
 </style>
 
 | 1 | 2 |
