@@ -9,10 +9,16 @@ author_profile: true
 
 PhD student(s)
 ======
-    
+<style>
+table th:first-of-type {
+    width: 4cm;
+}
+table th:first-of-type(2) {
+    width: 150pt;
+}
+</style>    
 | 1 | 2 |
 |---|---|
-|<div style="width: 150pt">Student A</div>|b|
 |![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
 
 ---
