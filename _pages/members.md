@@ -26,11 +26,20 @@ Master student(s)
   
 
 
-
+<!--
 
 | a | b | d |
 |---|---|---|
 | 1 | name<img width=200/>| <img width=100/>3 |
+
+<table>
+    <tr>
+        <td>This is <img width=200/></td>
+        <td><div style="width:100px;color:#f00;font-weight:normal;font-style:italic;">字段1</div></td>
+    </tr>
+</table>
+-->
+
 
 <!-- ![THU](/images/THU.png){: .align-left width="200px"}   你看不到我看不到我 -->
 <!-- * 2009-2013年，B.S. in Chemistry, Nankai University, 2009-2013 你看不到我看不到我 -->
@@ -39,11 +48,5 @@ Master student(s)
 
 
 
-<!--
-<table>
-    <tr>
-        <td>This is <img width=200/></td>
-        <td><div style="width:100px;color:#f00;font-weight:normal;font-style:italic;">字段1</div></td>
-    </tr>
-</table>
--->
+
+
