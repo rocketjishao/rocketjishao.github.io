@@ -24,7 +24,7 @@ Education
    
 * 2017-2021, Doctor of philosophy in Chemistry.    
   *   Ph.D in Chemistry, Hong Kong Baptist University, 2017-2021  
-    [Cai Gropu](http://skleba.hkbu.edu.hk/en/home/)  
+    [Cai Group](http://skleba.hkbu.edu.hk/en/home/)  
     ![SKLEBA](/images/skleba.png){: .align-right width="200px"}    
 
 ---
