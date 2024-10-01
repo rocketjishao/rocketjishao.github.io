@@ -31,7 +31,7 @@ table th:first-of-type(3) {
 </style>
     
 | ![A](/images/A.png){:width="100px"} |  | 
-| <b>Cheng Ruiqin</b><br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Med. Peking Union Medical College; <br>B.Med., Sichuan University <br><b>Email</b>: A at mail2.sysu.edu.cn | |    
+| <b>Cheng Ruiqin</b><br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Med. Peking Union Medical College; <br>$~~~~$B.Med., Sichuan University <br><b>Email</b>: A at mail2.sysu.edu.cn | |    
 
 ---
 
