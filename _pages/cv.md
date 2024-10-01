@@ -74,7 +74,7 @@ Publications
 
 ---
      
-<p hiden> Research background 
+<p hidden> Research background 
 ====== 
     
 ### 1.硕士阶段研究方向（2013 年-2016 年）  
