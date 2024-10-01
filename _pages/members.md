@@ -9,7 +9,7 @@ author_profile: true
 I'm fortunate to work with a group of exceptional students.
 </p>
 
-PhD student(s)
+M.D. student(s)
 ======
 <style>
 table th:first-of-type {
@@ -25,7 +25,7 @@ table th:first-of-type(3) {
     
 | Cheng | 2 TBD | 
 |---|---|
-|![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Med. Peking Union Medical College; <br>B.Med., Sichuan University <br><b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |    
+|![A](/images/A.png){:width="100px"} <br> M.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Med. Peking Union Medical College; <br>B.Med., Sichuan University <br><b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |    
 
 ---
 
