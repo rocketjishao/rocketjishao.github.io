@@ -5,7 +5,7 @@ permalink: /members/
 author_profile: true
 
 ---
-<p class="text-center">
+<p class="text-left">
   I'm fortunate to work with a group of exceptional students.
 </p>
 
