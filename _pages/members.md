@@ -15,15 +15,6 @@ Ph.D. student(s)
 td, th {
     border: none!important;
 }
-table th:first-of-type {
-    width: 8cm;
-}
-table th:first-of-type(2) {
-    width: 8cm;
-}
-table th:first-of-type(3) {
-    width: 40%;
-}
 </style>
     
 | Cheng | 2 TBD | 
