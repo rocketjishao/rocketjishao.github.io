@@ -47,7 +47,7 @@ Occupational experience
 
 Fundings
 ======
-* NSFC Young Scientist Fund，22406209, Chemical proteomics for studying the liver toxicity mechanisms of PPD-derived quinones, 2025-2027
+* NSFC Young Scientist Fund，22406209, Chemical proteomics for investigating liver toxicity mechanisms induced by PPD-derived quinones, 2025-2027
 
 ---
 
