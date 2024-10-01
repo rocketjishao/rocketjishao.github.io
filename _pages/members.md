@@ -12,6 +12,10 @@ I'm fortunate to work with a group of exceptional students.
 Ph.D. student(s)
 ======
 <style>
+table {
+    border-collapse: collapse;
+    border:none;
+}
 td, th {
     border: none;
 }
