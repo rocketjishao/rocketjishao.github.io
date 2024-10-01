@@ -16,7 +16,8 @@ table th:first-of-type {
 table th:first-of-type(2) {
     width: 150pt;
 }
-</style>    
+</style>
+
 | 1 | 2 |
 |---|---|
 |![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn | ![A](/images/A.png){:width="100px"} <br> Ph.D. candidate.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Education</b>: B.E., XXX University<br> <b>Email</b>: A at mail2.sysu.edu.cn |
