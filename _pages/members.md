@@ -15,9 +15,8 @@ Ph.D. student(s)
 table {
     border-collapse: collapse;
 }
-
 td, th {
-    border: none!important;
+    border: none;
 }
 table th:first-of-type {
     width: 10cm;
