@@ -12,6 +12,9 @@ I'm fortunate to work with a group of exceptional students.
 Ph.D. student(s)
 ======
 <style>
+td, th {
+    border: none!important;
+}
 table th:first-of-type {
     width: 8cm;
 }
