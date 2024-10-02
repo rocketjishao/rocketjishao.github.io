@@ -23,7 +23,7 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 学院科研楼
 ![学院科研楼](/images/科研楼.jpg)
 学院办公楼
-
+![学院办公楼](/images/办公楼.jpg)
 部分质谱仪器
 赛默飞Orbitrap240
 ![质谱仪器1](/images/240.jpg)
