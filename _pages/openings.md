@@ -68,7 +68,7 @@ table th:first-of-type(2) {
 |TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="250px"}|
 
 # __Our group__
-We have established ChemLab and BioLab for researches and are continuously improving our platform!<br>
+We have established ChemLab and BioLab for researches and are committed to improving our platform!<br>
 
 |ChemLab |BioLab|
 ---|---
