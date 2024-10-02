@@ -67,7 +67,6 @@ table th:first-of-type(2) {
 |TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="400px"}|
 
 # ___Our group__
-[br]
-|Chemical synthesis in fume hood, <br> rotatary evaporator + automatic column passer |![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} |  ![过柱机](/images/过柱机.jpg){:width="300px"}|    
----|---|---
+<br>    
+|Chemical synthesis in fume hood, <br> rotatary evaporator + automatic column passer |![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} | ![过柱机](/images/过柱机.jpg){:width="300px"}|    
 |Biolab:proteomics and RNA preparation room|  ![生物实验室](/images/biolab.jpg){:width="400px"} |  |
