@@ -29,12 +29,6 @@ table {
 td, th {
     border: none;
 }
-table th:first-of-type {
-    width: 8cm;
-}
-table th:first-of-type(2) {
-    width: 8cm;
-}
 </style>
     
 |No.3.Medical Building(Research, left) | No.19 SPH Building(Office, right)|
