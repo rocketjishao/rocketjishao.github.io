@@ -30,7 +30,7 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 6cm;
+    width: 8cm;
 }
 table th:first-of-type(2) {
     width: 6cm;
@@ -44,6 +44,21 @@ No.3 Medical Building(Research, left)|No.19 SPH Building(Office, right)
 <br>
 
 # __Major Facilities: Mass spectrometry__
+<style>
+table {
+    border-collapse: collapse;
+    border:none;
+}
+td, th {
+    border: none;
+}
+table th:first-of-type {
+    width: 6cm;
+}
+table th:first-of-type(2) {
+    width: 6cm;
+}
+</style>
 
 |Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="300px"} |  
 |Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="300px"} |     
