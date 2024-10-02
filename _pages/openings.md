@@ -36,9 +36,9 @@ table th:first-of-type(2) {
     width: 8cm;
 }
 </style>
-
+    
 |No.3.Medical Building(Research, left) | No.19 SPH Building(Office, right)|
-|![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}|![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}|
+|![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}|![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}|    
 <br>
 <br>
 <br>
