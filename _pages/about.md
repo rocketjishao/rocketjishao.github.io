@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "__chemical biology + toxicology__"
+title: "__chemical biology + molecular toxicology__"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 <br />
-
 <p>This is my <a href="https://sph.sysu.edu.cn/teacher/2407">school homepage</a></p>
           
 # __🥇Introduction__   
