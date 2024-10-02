@@ -49,4 +49,4 @@ No.3 Medical Building(Research, left)|No.19 SPH Building(Office, right)
 |Thermofisher QE plus, coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="300px"} |     
      
 
-|<!---TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="300px"} --->|     
+<!---TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="300px"} --->
