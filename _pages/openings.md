@@ -30,10 +30,10 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 8cm;
+    width: 6cm;
 }
 table th:first-of-type(2) {
-    width: 8cm;
+    width: 6cm;
 }
 </style>
     
