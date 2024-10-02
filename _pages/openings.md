@@ -24,7 +24,7 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 ![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}
 ![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}
 
-#__部分质谱仪器__
+# __Facilities: Mass spectrometry__
 赛默飞Orbitrap240
 ![质谱仪器1](/images/240.jpg){: .align-left width="300px"}
 赛默飞QE plus
