@@ -40,15 +40,16 @@ table th:first-of-type(3) {
 }
 </style>
 
-|No.3.Medical Building(Research, left) | No.19 SPH Building(Office, right)|    
+|No.3.Medical Building(Research, left) | No.19 SPH Building(Office, right)|
 |![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}|![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}|
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
+<br>
 
 # __Facilities: Mass spectrometry__
-|  Thermofisher Orbitrap 240, connected with Vanquish HPLC  |  ![质谱仪器1](/images/240.jpg){:width="300px"}  |
+
+|Thermofisher Orbitrap 240, connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="300px"} |  
 |----|----|
-|Thermofisher QE plus, coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="300px"}   |
-|<!---TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg) --->|
+|Thermofisher QE plus, coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="300px"} |     
+|<!---TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg) --->|     
