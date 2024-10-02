@@ -46,14 +46,14 @@ No.3 Medical Building (Research)|No.19 SPH Building (Office)
 <br>
 
 # __MS Facilities in SPH__
+
+|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="400px"} |  
+|Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="400px"} |     
+|TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="400px"}|
+
+# __Our group__
+
 <style>
-table {
-    border-collapse: collapse;
-    border:none;
-}
-td, th {
-    border: none;
-}
 table th:first-of-type {
     width: 6cm;
 }
@@ -62,11 +62,6 @@ table th:first-of-type(2) {
 }
 </style>
 
-|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="400px"} |  
-|Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="400px"} |     
-|TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="400px"}|
-
-# __Our group__
-    
-|Chemical synthesis in fume hood |rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} |automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| 
-|Biolab:proteomics and RNA preparation room| biolab: ![生物实验室](/images/biolab.jpg){:width="400px"} |  |
+|ChemLab |Biolab|
+---|---
+|rotatory evaporator in fume hood<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation room<br> ![生物实验室](/images/biolab.jpg){:width="300px"} |  |
