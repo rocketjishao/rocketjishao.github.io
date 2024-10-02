@@ -67,6 +67,7 @@ table th:first-of-type(2) {
 ---|---|---
 |![质谱仪器1](/images/240.jpg){:width="250px"} | ![质谱仪器2](/images/QE.jpg){:width="250px"} |![质谱仪器3](/images/timsTOF.jpg){:width="250px"}|
 
+<br><br>
 # __Our group__
 We have established ChemLab and BioLab for researches and are committed to improving our platform!<br>
 
