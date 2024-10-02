@@ -1,11 +1,12 @@
 ---
-permalink: /openings/
+layout: archive
 title: ""
+permalink: /openings/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /openings/
-  - /openings.html
 ---
+
 <br>
 
 # __Postdoc Post__   
