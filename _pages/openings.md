@@ -68,5 +68,6 @@ table th:first-of-type(2) {
 
 # __Our group__
     
-|Chemical synthesis in fume hood |rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} |automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| 
-|Biolab:proteomics and RNA preparation room| biolab: ![生物实验室](/images/biolab.jpg){:width="400px"} |  |
+|ChemLab |BioLab|
+---|---
+rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation: ![生物实验室](/images/biolab.jpg){:width="300px"} |
