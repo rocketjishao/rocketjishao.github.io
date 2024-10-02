@@ -21,13 +21,13 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 
 # __学院平台__
 学院科研楼
-![学院科研楼](/images/科研楼.jpg)
+![学院科研楼](/images/科研楼.jpg){: .align-left width="300px"}
 学院办公楼
-![学院办公楼](/images/办公楼.jpg)
+![学院办公楼](/images/办公楼.jpg){: .align-left width="300px"}
 部分质谱仪器
 赛默飞Orbitrap240
-![质谱仪器1](/images/240.jpg)
+![质谱仪器1](/images/240.jpg){: .align-left width="300px"}
 赛默飞QE plus
-![质谱仪器2](/images/QE.jpg)
-布鲁克TIMS TOF pro2
-![质谱仪器3](/images/timsTOF.jpg)
+![质谱仪器2](/images/QE.jpg){: .align-left width="300px"}
+<!---布鲁克TIMS TOF pro2
+![质谱仪器3](/images/timsTOF.jpg)--->
