@@ -54,10 +54,10 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 6cm;
+    width: 8cm;
 }
 table th:first-of-type(2) {
-    width: 6cm;
+    width: 8cm;
 }
 </style>
 
