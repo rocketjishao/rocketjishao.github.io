@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* 2009-2013, Bachelor's degree in Molecular Science and Technology；  
+* 2009-2013, Dual Bachelor's degree in Molecular Science and Technology；  
   *   B.S. in Chemistry, Nankai University, 2009-2013
   *   B.E. in Chemical engineering, Tianjin University, 2009-2013
 ![NKU](/images/NKU.png){: .align-right width="200px"}   
