@@ -20,11 +20,10 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 欢迎报考中山大学公卫学院。计划招录2025年9月入学的优秀公卫专硕、博士生。欢迎感兴趣的同学报名，也请各位老师推荐优秀的学生报名。请邮件联络我获取最新信息。
 
 # __School of Public Health__
-No.3.Medical Building(left) and No.19 SPH Building(right)
-![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}
-![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}
-</br>
-</br>
+|No.3.Medical Building(Research, left) | No.19 SPH Building(Office, right)|
+----|---
+|![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}|
+![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}|
 </br>
 </br>
 
