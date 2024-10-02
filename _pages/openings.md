@@ -22,7 +22,7 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 <br><br>
 
 # __School of Public Health__
-
+Our school has sufficient space for research, teaching and office.<br>
 <style>
 table {
     border-collapse: collapse;
@@ -46,6 +46,7 @@ No.3 Medical Building (Research)|No.19 SPH Building (Office)
 <br>
 
 # __MS Facilities in SPH__
+Over 10 high-end MS instruments are available in our school and talents are recruited!<br>
 <style>
 table {
     border-collapse: collapse;
@@ -62,12 +63,13 @@ table th:first-of-type(2) {
 }
 </style>
 
-|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="400px"} |  
-|Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="400px"} |     
-|TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="400px"}|
+|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="250px"} |  
+|Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="250px"} |     
+|TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="250px"}|
 
 # __Our group__
-    
+We have established ChemLab and BioLab for researches and still working hard to improving our platform!<br>
+
 |ChemLab |BioLab|
 ---|---
 rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation: ![生物实验室](/images/biolab.jpg){:width="300px"} |
