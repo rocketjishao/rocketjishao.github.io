@@ -63,13 +63,13 @@ table th:first-of-type(2) {
 }
 </style>
 
-|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC |![质谱仪器1](/images/240.jpg){:width="250px"} |  
-|Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="250px"} |     
-|TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="250px"}|
+|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC | Thermofisher QE plus,<br>coupled with easy nlc1000|TIMS TOF pro2|
+---|---|---
+|![质谱仪器1](/images/240.jpg){:width="250px"} | ![质谱仪器2](/images/QE.jpg){:width="250px"} |![质谱仪器3](/images/timsTOF.jpg){:width="250px"}|
 
 # __Our group__
 We have established ChemLab and BioLab for researches and are committed to improving our platform!<br>
 
 |ChemLab |BioLab|
 ---|---
-rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation: ![生物实验室](/images/biolab.jpg){:width="300px"} |
+rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="300px"} |
