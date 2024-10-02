@@ -39,7 +39,7 @@ Master student(s)
 ======
 
 |![A](/images/ZXQ.jpg){:width="150px"}|![A](/images/XN.jpg){:width="150px"}|![A](/images/CSH.jpg){:width="150px"}|
-|<b>Zhang Xiqing</b>, M.Med. candidate.  <br> <b>Research direction</b>: Chemical proteomics for target ID of new quinone-based pollutants. <br> <b>Education</b>: B.Med., Shandong University<br> <b>Email</b>: zhangxq88 at mail2.sysu.edu.cn |<b>Xiong Ning</b>, M.Med. candidate.  <br> <b>Research direction</b>: Chemical proteomics for taget ID of metal pollutants. <br> <b>Education</b>: B.Med., Southern Medical University<br> <b>Email</b>: A at mail2.sysu.edu.cn |<b>Cai Siheng</b>, MPH candidate.  <br> <b>Research direction</b>: Epitranscriptomics method development. <br> <b>Education</b>: B.Med., University of South China<br> <b>Email</b>: A at mail2.sysu.edu.cn  |
+|<b>(co-supervision)Zhang Xiqing</b>, M.Med. candidate.  <br> <b>Research direction</b>: Chemical proteomics for target ID of new quinone-based pollutants. <br> <b>Education</b>: B.Med., Shandong University<br> <b>Email</b>: zhangxq88 at mail2.sysu.edu.cn |<b>Xiong Ning</b>, M.Med. candidate.  <br> <b>Research direction</b>: Chemical proteomics for taget ID of metal pollutants. <br> <b>Education</b>: B.Med., Southern Medical University<br> <b>Email</b>: A at mail2.sysu.edu.cn |<b>Cai Siheng</b>, MPH candidate.  <br> <b>Research direction</b>: Epitranscriptomics method development. <br> <b>Education</b>: B.Med., University of South China<br> <b>Email</b>: A at mail2.sysu.edu.cn  |
 
 
 ---
