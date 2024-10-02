@@ -23,8 +23,12 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 No.3.Medical Building(left) and No.19 SPH Building(right)
 ![学院科研楼](/images/科研楼.jpg){: .align-left width="250px"}
 ![学院办公楼](/images/办公楼.jpg){: .align-right width="250px"}
+</br>
+</br>
 
 # __Facilities: Mass spectrometry__
-|Thermofisher Orbitrap 240, connected with Vanquish HPLC|![质谱仪器1](/images/240.jpg){: .align-left width="300px"}|     
-|Thermofisher QE plus, voupled with easy nlc1000|![质谱仪器2](/images/QE.jpg){: .align-right width="300px"} |    
+|  Thermofisher Orbitrap 240, connected with Vanquish HPLC  |  ![质谱仪器1](/images/240.jpg){:width="300px"}  |
+|----|----|
+|Thermofisher QE plus, coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="300px"}   |
+     
 |<!---TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg)--->|
