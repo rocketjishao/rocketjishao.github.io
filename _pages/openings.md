@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /openings/
 author_profile: true
-redirect_from:
-  - /openings/
 ---
 
 <br>
