@@ -66,7 +66,7 @@ table th:first-of-type(2) {
 |Thermofisher QE plus,<br>coupled with easy nlc1000|  ![质谱仪器2](/images/QE.jpg){:width="400px"} |     
 |TIMS TOF pro2|![质谱仪器3](/images/timsTOF.jpg){:width="400px"}|
 
-# ___Our group__
+# __Our group__
     
 |Chemical synthesis in fume hood |rotatory evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} |automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| 
 |Biolab:proteomics and RNA preparation room| biolab: ![生物实验室](/images/biolab.jpg){:width="400px"} |  |
