@@ -21,7 +21,6 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 
 
 
-学院楼
-<a href="https://sph.sysu.edu.cn/article/2494">此链接</a>
-
-
+![学院楼](/images/学院楼.jpg)
+![质谱仪器1](/images/240.jpg)
+![质谱仪器2](/images/QE.jpg)
