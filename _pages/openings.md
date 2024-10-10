@@ -33,13 +33,10 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 30%;
+    width: 5cm;
 }
 table th:first-of-type(2) {
-    width: 30%;
-}
-table th:first-of-type(3) {
-    width: 30%;
+    width: 5cm;
 }
 </style>
     
@@ -57,10 +54,13 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 8cm;
+    width: 5cm;
 }
 table th:first-of-type(2) {
-    width: 8cm;
+    width: 5cm;
+}
+table th:first-of-type(3) {
+    width: 5cm;
 }
 </style>
 
