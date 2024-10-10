@@ -33,16 +33,19 @@ td, th {
     border: none;
 }
 table th:first-of-type {
-    width: 8cm;
+    width: 30%;
 }
 table th:first-of-type(2) {
-    width: 8cm;
+    width: 30%;
+}
+table th:first-of-type(3) {
+    width: 30%;
 }
 </style>
     
 No.3 Medical Building (Research)|No.19 SPH Building (Teaching & Office)
 ---|---
-![学院科研楼](/images/科研楼.jpg){: width="250px"}|![学院办公楼](/images/办公楼.jpg){:width="250px"}   
+![学院科研楼](/images/科研楼.jpg){: width="200px"}|![学院办公楼](/images/办公楼.jpg){:width="200px"}   
     
 Over 10 high-end MS instruments are available in our school and talents are being recruited!<br>
 <style>
@@ -63,7 +66,7 @@ table th:first-of-type(2) {
 
 |Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC | Thermofisher QE plus,<br>coupled with easy nlc1000|TIMS TOF pro2|
 ---|---|---
-|![质谱仪器1](/images/240.jpg){:width="250px"} | ![质谱仪器2](/images/QE.jpg){:width="250px"} |![质谱仪器3](/images/timsTOF.jpg){:width="250px"}|
+|![质谱仪器1](/images/240.jpg){:width="150px"} | ![质谱仪器2](/images/QE.jpg){:width="150px"} |![质谱仪器3](/images/timsTOF.jpg){:width="150px"}|
 
 <br><br>
 # __Our group__
@@ -71,4 +74,4 @@ We have established ChemLab and BioLab and are committed to improving our platfo
 
 |ChemLab |BioLab|
 ---|---
-rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="300px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="300px"} |
+rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="150px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="150px"}| proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="150px"} |
