@@ -34,13 +34,13 @@ Occupation
 * 2016-2017: Research Assistant
   * Hong Kong Baptist University
   * Duties included: Metabolomics and chemoproteomics
-  * Supervisor: Professor Zongwei Cai  
+  * Supervisor: Professor Cai Zongwei  
 
 * 2021-2024: Postdoctoral Fellow  
     ![HKU](/images/HKU.png){: .align-right width="260px"}
   * Department of Chemistry, The University of Hong Kong
   * Duties included: chemoproteomics
-  * Supervisor: Professor Chi-Ming Che  
+  * Supervisor: Professor Chi-Ming Che 
     [Che's group](https://cmche-hku.weebly.com/)  
 * 2024-present: Assistant Professor   
   * Department of Toxicology, School of Public Health, The Sun Yat-Sen University   
@@ -49,7 +49,8 @@ Occupation
 
 Fundings
 ======
-* NSFC Young Scientist Fund，22406209, Chemical proteomics for investigating liver toxicity mechanisms induced by PPD-derived quinones, 2025-2027
+* NSFC Young Scientist Fund，22406209, Chemical proteomics for investigating molecular mechanisms of hepatic toxicity induced by PPD-derived quinones, 2025-2027
+* Basic scientific research start-up funds of SYSU, 2024-2026
 
 ---
 
