@@ -74,4 +74,4 @@ We have established ChemLab and BioLab and are committed to improving our platfo
 
 |ChemLab |BioLab|
 ---|---
-rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机.jpg){:width="200px"}| proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="200px"} |
+rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>automatic column passer:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="200px"} |
