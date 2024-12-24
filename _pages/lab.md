@@ -61,7 +61,7 @@ table th:first-of-type(3) {
 }
 </style>
 
-|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC | Thermofisher QE plus,<br>coupled with easy nlc1000|TIMS TOF pro2|
+|Bruker TIMS TOF pro2|Thermofisher Orbitrap 240, <br>connected with Vanquish HPLC | Thermofisher QE plus,<br>coupled with easy nlc1000|
 ---|---|---
 |![质谱仪器3](/images/timsTOF.jpg){:width="200px"}|![质谱仪器1](/images/240.jpg){:width="200px"} | ![质谱仪器2](/images/QE.jpg){:width="200px"} |
 
