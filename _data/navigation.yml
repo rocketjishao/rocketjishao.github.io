@@ -17,8 +17,10 @@ main:
    
   - title: "Openings"
     url: /openings/     
-   
 
+  - title: "lab"
+    url: /lab/   
+  
 #  - title: "Teaching"
 #    url: /teaching/    
     
