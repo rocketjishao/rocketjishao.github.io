@@ -14,12 +14,13 @@ main:
      
   - title: "Members"
     url: /members/     
-   
+
+  - title: "Lab"
+    url: /lab/   
+    
   - title: "Openings"
     url: /openings/     
 
-  - title: "lab"
-    url: /lab/   
   
 #  - title: "Teaching"
 #    url: /teaching/    
