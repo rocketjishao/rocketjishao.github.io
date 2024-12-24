@@ -5,9 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
-
-
-# __Our group__
+# __Our Lab__
 We have established ChemLab, BioLab, and MS Lab and are committed to improving our platform!<br>
 
 |ChemLab |BioLab|MSLab|
