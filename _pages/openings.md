@@ -22,7 +22,7 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 <br><br>
 
 # __School of Public Health__
-Our school has sufficient space for research, teaching and office.<br>
+Our school has sufficient space for research, teaching, and office.<br>
 <style>
 table {
     border-collapse: collapse;
@@ -69,7 +69,7 @@ table th:first-of-type(3) {
 
 <br><br>
 # __Our group__
-We have established ChemLab and BioLab and are committed to improving our platform!<br>
+We have established ChemLab, BioLab, and MS Lab and are committed to improving our platform!<br>
 
 |ChemLab |BioLab|MSLab|
 ---|---|---
