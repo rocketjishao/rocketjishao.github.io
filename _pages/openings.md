@@ -4,7 +4,6 @@ title: ""
 permalink: /openings/
 author_profile: true
 ---
-
     
 # __Postdoc Post__   
 We also have a few openings for Postdoc working with me. The major areas of interest are: MS-based omics for molecular toxicology studies. Please contact me for details or check out <a href="https://sph.sysu.edu.cn/article/2494">our post here</a> or contact me for details.
