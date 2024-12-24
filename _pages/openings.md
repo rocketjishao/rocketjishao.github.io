@@ -20,6 +20,17 @@ I’m recruiting highly motivated master and PhD students starting in Sep. 2025;
 欢迎报考中山大学公卫学院。计划招录2025年9月入学的MPH公共卫生专硕一名。<br>
 欢迎感兴趣的同学报名，也请各位老师推荐优秀的学生报名。请邮件联络我获取最新信息。
 <br><br>
+<br><br>
+
+# __Our group__
+We have established ChemLab, BioLab, and MS Lab and are committed to improving our platform!<br>
+
+|ChemLab |BioLab|MSLab|
+---|---|---
+Rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>Automatic column passer:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| Proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="200px"} | In-house packing of nanoLC columns:<br>![填柱仪](/images/填柱仪.jpg){:width="100px"} <br>Sutter Micropipette Pullers:<br> ![拉针仪](/images/拉针仪.png){:width="200px"}
+
+<br><br>
+
 
 # __School of Public Health__
 Our school has sufficient space for research, teaching, and office.<br>
@@ -67,10 +78,4 @@ table th:first-of-type(3) {
 ---|---|---
 |![质谱仪器1](/images/240.jpg){:width="200px"} | ![质谱仪器2](/images/QE.jpg){:width="200px"} |![质谱仪器3](/images/timsTOF.jpg){:width="200px"}|
 
-<br><br>
-# __Our group__
-We have established ChemLab, BioLab, and MS Lab and are committed to improving our platform!<br>
 
-|ChemLab |BioLab|MSLab|
----|---|---
-Rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>Automatic column passer:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| Proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="200px"} | In-house packing of nanoLC columns:<br>![填柱仪](/images/填柱仪.jpg){:width="100px"} <br>Sutter Micropipette Pullers:<br> ![拉针仪](/images/拉针仪.png){:width="200px"}
