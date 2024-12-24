@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-<br><br>
 
 # __Our group__
 We have established ChemLab, BioLab, and MS Lab and are committed to improving our platform!<br>
