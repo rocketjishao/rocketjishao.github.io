@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br />
+
 <p>This is my <a href="https://sph.sysu.edu.cn/teacher/2407">school homepage</a></p>
 
 <p>This is our group's <a href="https://www.x-mol.com/groups/shaoxj">x-mol homepage</a></p>
