@@ -38,7 +38,9 @@ table th:first-of-type(2) {
 No.3 Medical Building (Research)|No.19 SPH Building (Teaching & Office)
 ---|---
 ![学院科研楼](/images/科研楼.jpg){: width="250px"}|![学院办公楼](/images/办公楼.jpg){:width="250px"}   
-    
+
+---
+
 Over 10 high-end MS instruments are available in our school and talents are being recruited!<br>
 <style>
 table {
@@ -58,7 +60,6 @@ table th:first-of-type(3) {
     width: 8cm;
 }
 </style>
-
 
 ---
 
