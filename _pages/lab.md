@@ -10,7 +10,7 @@ We have established ChemLab, BioLab, and MS Lab and are committed to improving o
 
 |ChemLab |BioLab|MSLab|
 ---|---|---
-Rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>Automatic column passer:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| Proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="200px"} | <br>Sutter Micropipette Pullers:<br> ![拉针仪](/images/拉针仪.png){:width="200px"}<br> In-house packing of nanoLC columns:<br>![填柱仪](/images/填柱仪.jpg){:width="100px"} <br> SpeedVac:<br>![冻干机]/images/冻干机.png){:width="100px"} 
+Rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>Automatic column passer:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| Proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="200px"} | <br>Sutter Micropipette Pullers:<br> ![拉针仪](/images/拉针仪.png){:width="200px"}<br> In-house packing of nanoLC columns:<br>![填柱仪](/images/填柱仪.jpg){:width="100px"} <br> SpeedVac:<br>![冻干机]/images/冻干机.png){:width="200px"} 
 
 ---
 
