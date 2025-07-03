@@ -69,5 +69,4 @@ table th:first-of-type(3) {
 |Thermofisher QE plus,<br>coupled with easy nlc1000/U3000 UHPLC|AB Sciex 7500 coupled with Waters i-class plus |
 |---|---|
 |![质谱仪器2](/images/QE.jpg){:width="350px"} | ![质谱仪器4](/images/AB.jpg){:width="350px"} |
----
 
