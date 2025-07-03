@@ -41,7 +41,7 @@ No.3 Medical Building (Research)|No.19 SPH Building (Teaching & Office)
 
 ---
 
-Over 10 high-end MS instruments are available in our school and talents have been recruited!<br>
+Over 10 high-end MS instruments are available in our school and talents in MS field have been recruited!<br>
 <style>
 table {
     border-collapse: collapse;
