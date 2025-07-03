@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # __Our Lab__
-We have established ChemLab, BioLab, and MS Lab and are committed to improving our platform!<br>
+We have ChemLab, BioLab, and MS Lab in our School and are committed to improving our platform!<br>
 
 |ChemLab |BioLab|MSLab|
 ---|---|---
