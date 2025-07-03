@@ -63,7 +63,7 @@ table th:first-of-type(3) {
 
 |Bruker TIMS TOF pro2|Thermofisher Orbitrap 240, <br>connected with Vanquish neo or Flex | Thermofisher QE plus,<br>coupled with easy nlc1000/U3000 UHPLC|
 ---|---|---
-|![质谱仪器3](/images/timsTOF.jpg){:width="200px"}|![质谱仪器1](/images/240.jpg){:width="200px"} | ![质谱仪器2](/images/QE.jpg){:width="200px"} |
+|![质谱仪器3](/images/timsTOF.jpg){:width="300px"}|![质谱仪器1](/images/240.jpg){:width="300px"} | ![质谱仪器2](/images/QE.jpg){:width="300px"} |
 
 ---
 
