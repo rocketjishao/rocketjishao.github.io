@@ -17,7 +17,9 @@ Please contact me for details or check out <a href="https://sph.sysu.edu.cn/arti
 ---
 
 # __PhD & master students__  
-I’m recruiting highly motivated PhD students and master students starting in Sep. 2026; my major research interests include combining chemical biology methods and omics techniques to deconvolute the underlying toxicology mechanisms of emerging environmental pollutants, including chemical proteomics, epitranscriptomics methods to investigate the RNA capping changes induced by environmental pollutants, etc. Interested applicants are encouraged to apply for the positions or contact me directly; we also appreciate professors to circulate this post to possible candidates.
+I’m recruiting highly motivated PhD students and master students starting in Sep. 2026.     
+My major research interests include combining chemical biology methods and omics techniques to deconvolute the underlying toxicology mechanisms of emerging environmental pollutants, including chemical proteomics, epitranscriptomics methods to investigate the RNA capping changes induced by environmental pollutants, etc.      
+Interested applicants are encouraged to apply for the positions or contact me directly; we also appreciate professors to circulate this post to possible candidates.
 
 欢迎报考中山大学公卫学院。计划招录2026年9月入学的博士生一名和硕士生两名。
 欢迎感兴趣的同学报名，也请各位老师推荐优秀的学生报名。请邮件联络我（shaoxj6@mail.sysu.edu.cn）获取最新信息。
