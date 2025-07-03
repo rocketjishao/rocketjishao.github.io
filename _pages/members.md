@@ -31,7 +31,7 @@ table th:first-of-type(3) {
 </style>
     
 | ![A](/images/CRQ.jpg){:width="150px"} | ![A](/images/CRQ.jpg){:width="150px"}  | 
-| <b>Cheng Ruiqin</b>, Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Pharm. Peking Union Medical College; <br>$~~~~~~~~~~$ B.Pharm, Sichuan University  | <b>Cheng Ruiqin</b>, Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Pharm. Peking Union Medical College; <br>$~~~~~~~~~~$ B.Pharm, Sichuan University  |    
+| <b>Cheng Ruiqin</b>, Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Pharm. Peking Union Medical College; <br>$~~~~~~~~~~$ B.Pharm, Sichuan University  | <b>Han Bing</b>, Ph.D. candidate.  <br> <b>Research direction</b>: Biochemistry and chemical biology. <br> <b>Education</b>: M.Pharm. Zhejiang Academy of Medical Sciences; <br>$~~~~~~~~~~$ B.Pharm, Shanxi Medical University  |    
 
 ---
 
