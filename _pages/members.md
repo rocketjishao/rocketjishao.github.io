@@ -60,6 +60,7 @@ Undergraduate student(s)
 | 1 | name<img width=200/>| <img width=100/>3 |
 -->
 
+<!--
 <table>
     <tr>
         <td>This is <img width=200/></td>
