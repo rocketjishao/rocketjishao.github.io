@@ -5,7 +5,6 @@ permalink: /openings/
 author_profile: true
 ---
 
-<!---
 # __Postdoc Post__   
 We also have a few openings for Postdoc working with me. The major areas of interest are: MS-based omics for molecular toxicology studies. Please contact me for details or check out <a href="https://sph.sysu.edu.cn/article/2494">our post here</a> or contact me for details.
 
@@ -14,7 +13,6 @@ We also have a few openings for Postdoc working with me. The major areas of inte
 <br>
 
 ---
---->
 
 # __PhD & master students__  
 I’m recruiting highly motivated PhD students and master students starting in Sep. 2026; my major research interests include combining chemical biology methods and omics techniques to deconvolute the underlying toxicology mechanisms of emerging environmental pollutants, including chemical proteomics, epitranscriptomics methods to investigate the RNA capping changes induced by environmental pollutants, etc. Interested applicants are encouraged to apply for the positions or contact me directly; we also appreciate professors to circulate this post to possible candidates.
