@@ -53,7 +53,7 @@ Undergraduate student(s)
 <!--
 Alumni
 |![A](/images/SYL.jpg){:width="150px"}| |
-|<b>Su Yalan</b>, Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn |<!--<b>TBD</b> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn-->|
+|<b>Su Yalan</b>, Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn |<!--<b>TBD</b> Undergraduate student.  <br> <b>Research direction</b>: Chemical biology. <br> <b>Email</b>: A at mail2.sysu.edu.cn|
 
 
 | a | b | d |
