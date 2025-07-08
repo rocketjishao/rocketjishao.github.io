@@ -10,7 +10,7 @@ We have <b>ChemLab</b>, <b>BioLab</b>, and <b>MSLab</b> in our School and are co
 
 |ChemLab |BioLab|MSLab|
 ---|---|---
-<b>Rotary evaporator in fume hood:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>Column chromatography:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| <b>Proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="300px"} <br> SpeedVac:<br>![真空浓缩仪](/images/真空浓缩仪.jpg){:width="300px"}|<b>Micropipette puller:<br> ![拉针仪](/images/拉针仪.jpg){:width="300px"}<br> Capillary loader for packing nanoLC columns:<br>![填柱仪](/images/填柱仪.jpg){:width="100px"}  
+<b>Fume hood with Rotary evaporator:<br> ![旋蒸仪](/images/旋蒸仪.jpg){:width="200px"} <br>Column chromatography:<br> ![过柱机](/images/过柱机2.jpg){:width="200px"}| <b>Proteomics and RNA preparation:<br> ![生物实验室](/images/biolab.jpg){:width="300px"} <br> SpeedVac:<br>![真空浓缩仪](/images/真空浓缩仪.jpg){:width="300px"}|<b>Micropipette puller:<br> ![拉针仪](/images/拉针仪.jpg){:width="300px"}<br> Capillary loader for packing nanoLC columns:<br>![填柱仪](/images/填柱仪.jpg){:width="100px"}  
 
 ---
 
