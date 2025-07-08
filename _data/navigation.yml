@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Lab"
+    url: /lab/   
+    
   - title: "News"  
     url: /year-archive/
     
@@ -15,9 +18,7 @@ main:
 #  - title: "Members"
 #    url: /members/     
 
-  - title: "Lab"
-    url: /lab/   
-    
+
   - title: "Openings"
     url: /openings/     
 
