@@ -15,8 +15,8 @@ main:
 #  - title: "Publications"
 #    url: /publications/
      
-#  - title: "Members"
-#    url: /members/     
+   - title: "Members"
+     url: /members/     
 
 
   - title: "Openings"
