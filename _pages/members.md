@@ -42,6 +42,8 @@ Master student(s)
 |<b>Cai Siheng</b>, MPH candidate (Master of Public Health).  <br> <b>Research direction</b>: chemoproteomics for target ID of pollutants <br> <b>Education</b>: B.Med., University of South China<br> <b>Email</b>: A at mail2.sysu.edu.cn  |  | 
 |![A](/images/SYL.jpg){:width="150px"}| ![A](/images/YHZ.jpg){:width="150px"} | 
 |<b>Su Yalan</b>,  M.Med. candidate.  <br> <b>Research direction</b>: Chemical biology, chemical probes for monitoring bio-distribution of toxicants. <br> <b>Education</b>: B.Med., Sun Yat-sen University<br> <b>Email</b>: A at mail2.sysu.edu.cn |<b>Yu Hanzhe</b>,  M.Med. candidate.  <br> <b>Research direction</b>: Epitranscriptomics method development. <br> <b>Education</b>: B.Med., Yangzhou University<br> <b>Email</b>: A at mail2.sysu.edu.cn| 
+|![A](/images/KYF.jpg){:width="150px"}| ![A](/images/HSR.jpg){:width="150px"} | 
+|<b>Kang Yanfen</b>,  M.Med. candidate.  <br> <b>Research direction</b>: Chemical biology, chemical probes for monitoring bio-distribution of toxicants. <br> <b>Education</b>: B.Sc., China Ocean University<br> <b>Email</b>: A at mail2.sysu.edu.cn |<b>Hu Sirui</b>,  M.Med. candidate.  <br> <b>Research direction</b>: Epitranscriptomics method development. <br> <b>Education</b>: B.Sc., Nanchang University<br> <b>Email</b>: A at mail2.sysu.edu.cn| 
 
 
 <!--
