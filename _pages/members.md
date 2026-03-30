@@ -31,8 +31,7 @@ table th:first-of-type(3) {
 </style>
     
 | ![A](/images/CRQ.jpg){:width="150px"} | ![A](/images/HB.jpg){:width="150px"}  | 
-| <b>Cheng Ruiqin</b>, 2024–present: Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: 
-M.Pharm. Peking Union Medical College; <br> B.Pharm, Sichuan University  | <b>Han Bing</b>, 2025–present: SYSU (Ph.D.)Ph.D. candidate.  <br> <b>Research direction</b>: Biochemistry and chemical biology. <br> <b>Education</b>: M.Pharm. Zhejiang Academy of Medical Sciences; <br>$~~~~~~~~~~~~~~~~~$ B.Pharm, Shanxi Medical University  |    
+| <b>Cheng Ruiqin</b>, 2024–present: Ph.D. candidate.  <br> <b>Research direction</b>: Chemical synthesis and chemical biology. <br> <b>Education</b>: M.Pharm. Peking Union Medical College; <br>$~~~~~~~~~~~~~~~~~$ B.Pharm, Sichuan University  | <b>Han Bing</b>, 2025–present: SYSU (Ph.D.)Ph.D. candidate.  <br> <b>Research direction</b>: Biochemistry and chemical biology. <br> <b>Education</b>: M.Pharm. Zhejiang Academy of Medical Sciences; <br>$~~~~~~~~~~~~~~~~~$ B.Pharm, Shanxi Medical University  |    
 
 ---
     
