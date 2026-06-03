@@ -9,7 +9,7 @@ author_profile: true
 I'm fortunate to work with a group of exceptional students.
 </p>
 
-Ph.D. student(s)
+Ph.D. students
 ======
 <style>
 table {
@@ -35,7 +35,7 @@ table th:first-of-type(3) {
 
 ---
     
-Master student(s)
+Master students
 ======
 
 |![A](/images/CSH.jpg){:width="150px"}|![A](/images/SYL.jpg){:width="150px"}| ![A](/images/YHZ.jpg){:width="150px"} | 
@@ -47,7 +47,7 @@ Master student(s)
 
 ---
     
-Former members
+Former member(s)
 ======    
 
 |<b>ZHANG Xiqing </b>  |2023-2026, co-supervision with Prof. Xing |
