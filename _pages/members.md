@@ -51,7 +51,7 @@ Master student(s)
 Former members
 ======    
 
-|<b>ZHANG Xiqing </b>  |(co-supervision with Prof. Xing) |
+|<b>ZHANG Xiqing </b>  |2023-2026, co-supervision with Prof. Xing |
 | |  |
 
 
