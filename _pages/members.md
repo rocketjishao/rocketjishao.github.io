@@ -51,8 +51,8 @@ Master student(s)
 Former members
 ======    
 
-|![A](/images/ZXQ.jpg){:width="150px"}| |
-|<b>ZHANG Xiqing </b>(co-supervision with Prof. Xing) |  |
+|<b>ZHANG Xiqing </b>  |(co-supervision with Prof. Xing) |
+| |  |
 
 
 <!--
