@@ -47,7 +47,7 @@ Master students
 
 ---
     
-Former member(s)
+Alumni
 ======    
 
 |<b>ZHANG Xiqing </b>  |Master's graduate, 2023-2026, co-supervision with Prof. Xing |
